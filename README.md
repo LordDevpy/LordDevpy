@@ -8,5 +8,5 @@
 
 <div>
   <a href="https://github.com/LordDevpy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorddevpy&show_icons=true&bg_color=#161721*title_color=#2733d9">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorddevpy&show_icons=true&theme=dark">
 </div>
